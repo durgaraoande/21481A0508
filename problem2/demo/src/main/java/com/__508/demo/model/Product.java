@@ -8,7 +8,7 @@ public class Product {
     private double rating;
     private double discount;
 
-    // Getters and setters
+   
     public String getId() {
         return id;
     }
